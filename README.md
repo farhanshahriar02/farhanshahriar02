@@ -40,9 +40,13 @@
 ---
 
 ## 📬 Connect With Me
-<p>
-  <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/farhan-shahriar-a94517366/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45">
+  </a>
+  <a href="mailto:farhanshahriar802@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45">
+  </a>
 </p>
 
 ---
