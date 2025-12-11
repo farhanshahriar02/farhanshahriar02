@@ -7,9 +7,9 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently learning **Data Science / Cybersecurity / Algorithms**
-- 🌱 Improving my **Python, C++, MATLAB, Web Dev** skills
+- 🌱 Improving my **Python, C++, MATLAB, Web Dev** skills  
 - 🎯 Goal: Become a **top-tier cybersecurity & AI engineer**
-- ⚡ Fun fact: I love building tools, automation scripts, and smart apps.
+- ⚡ Fun fact: I love building tools, apps & automation scripts.
 
 ---
 
@@ -25,6 +25,8 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" height="150">
 </p>
+
+---
 
 ## 🧩 Top Languages
 <p align="center">
