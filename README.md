@@ -1,37 +1,48 @@
-# Hi there 👋, I'm Farhan
-
-I'm a student of the dept. of **CSE** in American International University Bangladesh.
-
-### 🛠 Skills
-C, C++, Java, C#, Python, Computer Vision  
-
-- 🌱 I’m currently learning **Software Engineering**  
-- 🤝 I’m looking to collaborate on **GitHub projects**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/)  
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:6d28d9&height=250&section=header&text=Hi%20I'm%20Farhan%20Shahriar%20👋&fontSize=50&fontColor=ffffff" />
+</p>
 
 ---
 
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan8080&layout=compact&theme=tokyonight)
+## 🚀 About Me
+- 🔭 I’m currently learning **Data Science / Cybersecurity / Algorithms**
+- 🌱 Improving my **Python, C++, MATLAB, Web Dev** skills
+- 🎯 Goal: Become a **top-tier cybersecurity & AI engineer**
+- ⚡ Fun fact: I love building tools, automation scripts, and smart apps.
 
 ---
 
-### 📈 GitHub Stats
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhan8080&show_icons=true&theme=tokyonight)  
-
----
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=farhan8080&theme=tokyonight)
-
----
-
-### 🤝 Connect with me
+## 🛠️ Languages & Tools
 <p align="left">
-<a href="https://github.com/farhan8080" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,matlab,react,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150">
+</p>
+
+---
+
+## 🧩 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150">
+</p>
+
+---
+
+## 📬 Connect With Me
+<p>
+  <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:4f46e5&height=120&section=footer" />
 </p>
