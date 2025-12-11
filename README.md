@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently learning **Data Science / Cybersecurity / Algorithms**
-- 🌱 Improving my **Python, C++, C#, Java, MATLAB, Web Dev** skills  
+- 🌱 Improving my **Python, C++, MATLAB, Web Dev** skills  
 - 🎯 Goal: Become a **top-tier cybersecurity & AI engineer**
 - ⚡ Fun fact: I love building tools, apps & automation scripts.
 
@@ -15,7 +15,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,matlab,js,html,css,react,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,matlab,react,git,github,linux,vscode" />
 </p>
 
 ---
@@ -28,25 +28,17 @@
 
 ---
 
-## 🧩 Top Languages (Custom)
+## 🧩 Top Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
-  <img src="https://skillicons.dev/icons?i=cs" height="45" />
-  <img src="https://skillicons.dev/icons?i=python" height="45" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="45" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150">
 </p>
 
 ---
 
 ## 📬 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/farhan-shahriar-a94517366/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45">
-  </a>
-  <a href="mailto:farhanshahriar802@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45">
-  </a>
+<p>
+  <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 </p>
 
 ---
