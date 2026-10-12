@@ -19,25 +19,24 @@
 </p>
 
 ---
-
 ## 📊 Profile Stats
 
 <table width="100%">
   <tr>
     <th align="center" width="55%">Profile Stats</th>
-    <th align="center" width="45%">Language Contribution</th>
+    <th align="center" width="45%">Most Used Languages</th>
   </tr>
   <tr>
     <td width="55%">
       <img src="https://github-readme-stats.vercel.app/api?username=farhanshahriar02&show_icons=true&theme=react&hide_border=true&include_all_commits=true&title_color=79dafa&text_color=ffffff&icon_color=79dafa" width="100%" />
     </td>
     <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanshahriar02&layout=compact&theme=react&hide_border=true&title_color=79dafa&text_color=ffffff" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanshahriar02&layout=compact&theme=react&hide_border=true&title_color=79dafa&text_color=ffffff&langs_count=8&hide_progress=false" width="100%" />
     </td>
   </tr>
 </table>
 
----
+
 ---
 
 
