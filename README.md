@@ -23,19 +23,21 @@
 ## 📊 Profile Stats
 
 <table width="100%">
-<tr>
-<th width="60%" align="center">Profile Stats</th>
-<th width="40%" align="center">Language Contribution</th>
-</tr>
-<tr>
-<td width="60%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=farhanshahriar02&show_icons=true&theme=react&hide_border=true&include_all_commits=true&title_color=79dafa&text_color=ffffff&icon_color=79dafa" width="100%" />
-</td>
-<td width="40%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanshahriar02&layout=compact&theme=react&hide_border=true&title_color=79dafa&text_color=ffffff" width="100%" />
-</td>
-</tr>
+  <tr>
+    <th align="center" width="55%">Profile Stats</th>
+    <th align="center" width="45%">Language Contribution</th>
+  </tr>
+  <tr>
+    <td width="55%">
+      <img src="https://github-readme-stats.vercel.app/api?username=farhanshahriar02&show_icons=true&theme=react&hide_border=true&include_all_commits=true&title_color=79dafa&text_color=ffffff&icon_color=79dafa" width="100%" />
+    </td>
+    <td width="45%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanshahriar02&layout=compact&theme=react&hide_border=true&title_color=79dafa&text_color=ffffff" width="100%" />
+    </td>
+  </tr>
 </table>
+
+---
 ---
 
 
